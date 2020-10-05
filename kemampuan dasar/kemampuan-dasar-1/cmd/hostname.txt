@@ -1,0 +1,4 @@
+C:\Users\adi>hostname
+DESKTOP-6V3ADKJ
+
+outpus hostname saat ini

@@ -1,0 +1,5 @@
+C:\Users\adi>time
+The current time is: 12:38:34.71
+Enter the new time:
+
+untuk menampulkan waktu pada system

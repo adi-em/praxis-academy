@@ -1,0 +1,6 @@
+C:\Users\adi>date
+The current date is: Mon 10/05/2020
+Enter the new date: (mm-dd-yy)
+
+untuk melihat hari tanggal bulan dan tahun
+

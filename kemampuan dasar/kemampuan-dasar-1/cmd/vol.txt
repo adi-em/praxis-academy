@@ -1,0 +1,5 @@
+C:\Users\adi>vol
+ Volume in drive C has no label.
+ Volume Serial Number is 784D-E936
+
+menampilkan label disk

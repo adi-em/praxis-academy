@@ -1,0 +1,4 @@
+C:\Users\adi>chdir
+C:\Users\adi
+ 
+menampilkan direktory saat ini

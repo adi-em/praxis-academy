@@ -1,0 +1,5 @@
+C:\Users\adi>ver
+
+Microsoft Windows [Version 10.0.18362.1082]
+
+menampilkan informasi os

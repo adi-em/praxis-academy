@@ -1,0 +1,75 @@
+C:\Users\adi>systeminfo
+
+Host Name:                 DESKTOP-6V3ADKJ
+OS Name:                   Microsoft Windows 10 Home Single Language
+OS Version:                10.0.18362 N/A Build 18362
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          adi
+Registered Organization:
+Product ID:                00327-35040-20332-AAOEM
+Original Install Date:     10/2/2019, 10:24:31 AM
+System Boot Time:          10/5/2020, 10:00:51 AM
+System Manufacturer:       ASUSTeK COMPUTER INC.
+System Model:              X555BA
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: AMD64 Family 21 Model 112 Stepping 0 AuthenticAMD ~3000 Mhz
+BIOS Version:              American Megatrends Inc. X555BA.326, 5/13/2019
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+07:00) Bangkok, Hanoi, Jakarta
+Total Physical Memory:     3,969 MB
+Available Physical Memory: 1,263 MB
+Virtual Memory: Max Size:  6,529 MB
+Virtual Memory: Available: 2,346 MB
+Virtual Memory: In Use:    4,183 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-6V3ADKJ
+Hotfix(s):                 15 Hotfix(s) Installed.
+                           [01]: KB4576484
+                           [02]: KB4515383
+                           [03]: KB4515530
+                           [04]: KB4516115
+                           [05]: KB4521863
+                           [06]: KB4524569
+                           [07]: KB4528759
+                           [08]: KB4537759
+                           [09]: KB4538674
+                           [10]: KB4541338
+                           [11]: KB4561600
+                           [12]: KB4569073
+                           [13]: KB4576751
+                           [14]: KB4576754
+                           [15]: KB4574727
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: Realtek PCIe GbE Family Controller
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [02]: Qualcomm Atheros AR956x Wireless Network Adapter
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.1.1
+                                 IP address(es)
+                                 [01]: 192.168.1.41
+                                 [02]: fe80::f8db:f128:cd60:61d
+                           [03]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: VirtualBox Host-Only Network
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.56.1
+                                 [02]: fe80::f4c1:6da7:ad1a:22df
+                           [04]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+
+daftar konfiguari system

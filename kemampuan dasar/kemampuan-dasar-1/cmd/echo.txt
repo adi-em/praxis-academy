@@ -1,0 +1,4 @@
+C:\Users\adi>echo
+ECHO is on.
+
+menampilkan pesan dilayar

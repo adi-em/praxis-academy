@@ -1,0 +1,6 @@
+C:\Users>cd adi
+
+C:\Users\adi>
+
+untuk masuk dalam folder adi, jika mau masuk kedalam folder yang diinginkan bisa menuliskan habis cd lalu spasi
+

@@ -1,0 +1,4 @@
+C:\Users\adi>choice
+[Y,N]?Y
+
+membuat daftar pilihan
