@@ -101,6 +101,27 @@ untuk membuka jupyterlab bisa dengan perintah
 
 `jupyter lab`
 
+### 5. Pengertian Compiler
+
+Compiler adalah suatu program yang menerjemahkan bahasa program ( source code) kedalam bahasa objek (obyek code). Compiler menggabungkan keseluruhan bahasa program, mengumpulkannya dan kemudian menyusunnya kembali.
+
+Komplier memerlukan waktu untuk membuat suatu program dapat di eksekusi oleh computer, program yang dieksekusi oleh compiler adalah dapat berjalan lebih cepat disbanding program yang diperoduksi oleh interpreter, disamping itu juga bersifat independen. Contoh program yang menggunakan compiler adalah Visual Basic, Visual Delvi, dan Pascal.
+
+Tahap Kompilasi:
+- Pertama source code (program yang ditulis) dibaca kememori computer).
+- Source code tersebut diubah menjadi objek code (bahasa Assembly).
+- Objek code di hubungkan dengan liberary yang dibutuhkan untuk membentuk file yang bisa dieksekusi.
+
+### 6. Pengertian Interpreter
+
+Interpreter adalah Perangkat lunak yang mampu mengeksekusi code program (yang ditulis oleh programmer) lalu menterjemahkannya ke dalam bahasa mesin, sehingga mesin melakukan instruksi yang diminta oleh programmer tersebut. Perintah-perintah yang dibuat oleh programmer tersebut dieksekusi baris demi baris, sambil mengikuti logika yang terdapat di dalam kode tersebut.
+
+Proses ini sangat berbeda dengan compiler, dimana pada compiler, hasilnya sudah langsung berupa satu kesatuan perintah dalam bentuk bahasa mesin, dimana proses penterjemahan dilaksanakan sebelum program tersebut dieksekusi.
+
+Interpreter atau dalam bahasa Indonesia dikenal sebagai Juru Bahasa berbeda dengan Translator atau penterjemah dalam segi media yang dipakai untuk menerjemahkan. Interpreter akan menterjemahkan bahasa sumber ke dalam bahasa sasaran secara langsung atau orally sementara translator akan menerjemahkan bahasa sumber ke bahasa sasaran secara tertulis.
+
+Java dijalankan menggunakan interpreter yaitu Java Virtual Machine (JVM). Hal ini menyebabkan source code Java yang telah dikompilasi menjadi Java bytecodes dapat dijalankan pada platform yang berbeda-beda.
+
 sumber https://www.pythonindo.com/sejarah-python/
 
 terimakasih sudah untuk membaca 
