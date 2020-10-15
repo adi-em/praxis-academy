@@ -1,0 +1,2 @@
+# Serialization
+Serialization adalah konversi suatu objek ke serangkaian byte, sehingga objek tersebut dapat dengan mudah disimpan ke penyimpanan persisten atau dialirkan melalui tautan komunikasi. Aliran byte kemudian dapat deserialized - dikonversi menjadi replika objek asli.
