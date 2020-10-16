@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Adi M",
+        "rank": 1,
+        "socialmedia": {
+            "facebook": "adi_em",
+            "twitter": "adi_em",
+            "instagram": "adi_em",
+            "youtube": "adi_em",
+            "github": "adi_em"
+        }
+    }
+    {
+        "name": "Ida M",
+        "rank": 2,
+        "socialmedia": {
+            "facebook": "Ida M",
+            "twitter": "Ida M",
+            "instagram": "Ida M",
+            "youtube": "Ida M",
+            "github": "Ida M"
+        }
+    }
+]
