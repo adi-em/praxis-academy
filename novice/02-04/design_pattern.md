@@ -1,0 +1,3 @@
+# Pengertian Design Pattern
+
+Design Pattern adalah sebuah solusi yang berulang-ulang untuk permasalahan yang dijumpai berulang kali didalam sebuah pengembangan aplikasi di dunia nyata (dofactory, 2009). Pendekatan ini akan membuat sebuah gambaran tentang sebuah kumpulan pola dalam kode program dan membuat kategorisasi dari hal tersebut. Kategorisasi tersebut menghasilkan sebuah nama Design Pattern. Selain itu, sebuah design pattern bisa dibentuk dari kesamaan fungsi dan kebutuhan sistem.
